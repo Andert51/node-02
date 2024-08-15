@@ -135,3 +135,5 @@ app.listen(PORT, () => {
     console.log(`Servidor Trabajando en: ${PORT}`) //Cambia segun sea backend o Front, se usa una template string es para usar cadenas dentro de una variable para ver la variable
 })
 
+//CRUD funcional, siguiente practica sera para crear encriptacion y crud mas avanzado
+
